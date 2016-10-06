@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\PolynomialIdeal.o
+./release\Polynomial.o
+./release\MonomialOrder.o
+./release\Monomial.o
+./release\Utility.o
+./release\SymbolicOctonion.o
+./release\PolynomialFraction.o
+./release\SymbolicMatrix.o
+./release\Variable.o
+./release\YagisavaCryptosystem.o
+./release\KipnisHibshooshCryptosystem.o
+./release\GavinCryptosystem.o
+);

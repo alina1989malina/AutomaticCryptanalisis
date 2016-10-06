@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\PolynomialIdeal.o
+./debug\Polynomial.o
+./debug\MonomialOrder.o
+./debug\Monomial.o
+./debug\Utility.o
+./debug\SymbolicOctonion.o
+./debug\PolynomialFraction.o
+./debug\SymbolicMatrix.o
+./debug\Variable.o
+./debug\YagisavaCryptosystem.o
+./debug\KipnisHibshooshCryptosystem.o
+./debug\GavinCryptosystem.o
+);
